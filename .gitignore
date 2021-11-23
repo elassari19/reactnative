@@ -6,6 +6,10 @@ package-lock.json
 .prettierignore
 .prettierrc
 yarn-error.log
+.gitignore
+.expo-shared
+yarn.lock
+app.json
 npm-debug.*
 *.jks
 *.p8
