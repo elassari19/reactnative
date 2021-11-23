@@ -1,5 +1,11 @@
 node_modules/
 .expo/
+node_modules
+package-lock.json
+.vscode/
+.prettierignore
+.prettierrc
+yarn-error.log
 npm-debug.*
 *.jks
 *.p8
